@@ -1,5 +1,9 @@
 ﻿# Instagram-clone 😀
 
+LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
+GitHub- https://github.com/webHimanshusingh <br>
+<h1>Join us</h1>
+
 Hello 👋, Welcome to My GitHub Repository !!
 
 Instagram clone is a simple project using HTML, CSS and Javascript. During this project you can gain basic understanding of the primary technologies of web development html, css and javascript.
